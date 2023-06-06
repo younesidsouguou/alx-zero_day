@@ -1,1 +1,1 @@
-my sub repositoy
+My sub repository.
